@@ -119,14 +119,14 @@ Otávio Tarallo Squarizi e Pietro Barros dos Santos
 
 ## 🎨 Print das telas do Design
 
-![Design do App](/m2-app-inventor/print%20ex4.jpg)
-![Design do App](/m2-app-inventor/print2%20ex4.jpeg)
+![Design do App](app-apostila1/m2-app-inventor/print ex4.jpg)
+![Design do App](app-apostila1/m2-app-inventor/print2 ex4.jpeg)
 
 ---
 
 ## 🧩 Print das telas dos Blocos
 
-![Blocos do App](/m2-app-inventor/bloco%20ex4.jpeg)
+![Blocos do App] (app-apostila1/m2-app-inventor/bloco ex4.jpeg)
 
 ---
 
@@ -145,16 +145,18 @@ Otávio Tarallo Squarizi e Pietro Barros dos Santos
 
 ## 🎨 Print das telas do Design
 
-![Design do App](/m2-app-inventor/print%20ex5%201.jpeg)
-![Design do App](/m2-app-inventor/print%20ex5%202.jpeg)
-![Design do App](/m2-app-inventor/print%20ex5%203.jpeg)
+![Design do App] (app-apostila1/m2-app-inventor/print ex5 1.jpeg)
+![Design do App] (app-apostila1/m2-app-inventor/print ex5 2.jpeg)
+![Design do App] (app-apostila1/m2-app-inventor/print ex5 3.jpeg)
 
 
 ---
 
 ## 🧩 Print das telas dos Blocos
 
-![Blocos do App](/m2-app-inventor/bloco%20ex5%201.jpeg)
+![Blocos do App](app-apostila1/m2-app-inventor/bloco ex1.jpeg)
+![Blocos do App](app-apostila1/m2-app-inventor/bloco ex2.jpeg)
+![Blocos do App](app-apostila1/m2-app-inventor/bloco ex3.jpeg)
 
 ---
 
@@ -172,12 +174,12 @@ Otávio Tarallo Squarizi e Pietro Barros dos Santos
 
 ## 🎨 Print das telas do Design
 
-![Design do App](/m2-app-inventor/bloco%20ex6.jpeg)
+![Design do App](app-apostila1/m2-app-inventor/print ex6.jpeg)
 
 ---
 
 ## 🧩 Print das telas dos Blocos
 
-![Blocos do App](/m2-app-inventor/bloco%20ex6.jpeg)
+![Blocos do App](app-apostila1/m2-app-inventor/bloco ex6.jpeg)
 
 ---
